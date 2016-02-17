@@ -1,0 +1,28 @@
+name: Random Thoughts of a Distracted Mind
+favicon: null
+layout_spectrum: 0.09480331954546273
+typography_spectrum: 0.6079920055344701
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7628401941619813
+  lightness: 0.410378290573135
+  saturation: 0.9013864907901734
+  rhythmicContrast: 0.07585647632367909
+purpose: []
